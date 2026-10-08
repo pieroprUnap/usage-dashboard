@@ -1,0 +1,6 @@
+{
+  "name": "usage-dashboard",
+  "version": "0.2.0",
+  "description": "Live session dashboard: tokens, cost, context, limits, agents, tasks, background jobs, tools and an animated pet",
+  "types": "./types/index.d.ts"
+}
